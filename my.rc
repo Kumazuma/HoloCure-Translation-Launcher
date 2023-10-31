@@ -1,1 +1,3 @@
 id ICON "1616holo.ico"
+IDI_LOGO RCDATA "holocure.png"
+#include <wx/msw/wx.rc>
