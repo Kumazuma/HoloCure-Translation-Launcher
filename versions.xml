@@ -1,17 +1,20 @@
-<e name="8/26 빌드" version="0.6.1692263974" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.6.1692263974-1/HoloCure-0826.zip" chksum="148348d4b02ea0b9c101c1045e7d3220"></e>
-<e name="8/19 빌드 (미완성)" version="0.6.1692263974" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.6.1692263974/HoloCure-0819.zip" chksum="a559e30842d787ee03ad215313c9d7ab"></e>
-<e name="5/13 빌드" version="0.5.1677041362" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.5.1677041362-1/HoloCure-0513.zip" chksum="161e5e8545b7334b2fa7cf57e55810d9"></e>
-<e name="3/13 빌드" version="0.5.1677041362" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.5.1677041362/HoloCure-0313.zip" chksum="fbaa8c1e65053833807463647369174b"></e>
-<e name="3/11 빌드" version="0.5.1676026631" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.5.1676026631/HoloCure-0311.zip" chksum="32160a3542508983b5a8767039444823"></e>
-<e name="9/16 빌드" version="0.4.1663293877" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1663293877/HoloCure-0916.zip" chksum="a30a61fd351057aae61ff844590bd963"></e>
-<e name="9/16 빌드" version="0.4.1663282758" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1663282758-beta/HoloCure-0916.zip" chksum="be66a68a950d3dcc481144f0cb1505c2"></e>
-<e name="9/13 빌드" version="0.4.1662787865" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1662787865-2/HoloCure-0913.zip" chksum="ac9f22bc7c4e4fa3d541d40181f7923c"></e>
-<e name="9/12 빌드" version="0.4.1662787865" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1662787865/HoloCure-0912.zip" chksum="bb558c244cbcc230553ecfaa0e6794f1"></e>
-<e name="9/10 빌드" version="0.4.1662745659" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1662745659/HoloCure-0910.zip" chksum="596003c2c615e2ccda6117658d82ce9a"></e>
-<e name="9/9 빌드" version="0.4.1662688581" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4/HoloCure-0909.zip" chksum="082fab0a5e4d54f7d211363f0d7a0f6a"></e>
-<e name="9/8 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure-0908.zip" chksum="e68f84331ffb28edd1f772471faa7497"></e>
-<e name="7/9 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0709.zip" chksum="91be340ba0074b38c033c65d003ea5b7"></e>
-<e name="7/2 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0702.zip" chksum="175d849cabe16d8bbb91017d79310cdb"></e>
-<e name="7/1 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0701.zip" chksum="9e9b73a12a7330dd3b22ad83a43bc274"></e>
-<e name="6/30 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0630.zip" chksum="39d22913f7a139c3238252b89edc28f0"></e>
-<e name="6/29 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0629.zip" chksum="79cbc072091964112553d7f528211aa6"></e>
+<?xml encoding="utf-8"?>
+<releases>
+    <e name="8/26 빌드" version="0.6.1692263974" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.6.1692263974-1/HoloCure-0826.zip" chksum="148348d4b02ea0b9c101c1045e7d3220"></e>
+    <e name="8/19 빌드 (미완성)" version="0.6.1692263974" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.6.1692263974/HoloCure-0819.zip" chksum="a559e30842d787ee03ad215313c9d7ab"></e>
+    <e name="5/13 빌드" version="0.5.1677041362" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.5.1677041362-1/HoloCure-0513.zip" chksum="161e5e8545b7334b2fa7cf57e55810d9"></e>
+    <e name="3/13 빌드" version="0.5.1677041362" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.5.1677041362/HoloCure-0313.zip" chksum="fbaa8c1e65053833807463647369174b"></e>
+    <e name="3/11 빌드" version="0.5.1676026631" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.5.1676026631/HoloCure-0311.zip" chksum="32160a3542508983b5a8767039444823"></e>
+    <e name="9/16 빌드" version="0.4.1663293877" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1663293877/HoloCure-0916.zip" chksum="a30a61fd351057aae61ff844590bd963"></e>
+    <e name="9/16 빌드" version="0.4.1663282758" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1663282758-beta/HoloCure-0916.zip" chksum="be66a68a950d3dcc481144f0cb1505c2"></e>
+    <e name="9/13 빌드" version="0.4.1662787865" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1662787865-2/HoloCure-0913.zip" chksum="ac9f22bc7c4e4fa3d541d40181f7923c"></e>
+    <e name="9/12 빌드" version="0.4.1662787865" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1662787865/HoloCure-0912.zip" chksum="bb558c244cbcc230553ecfaa0e6794f1"></e>
+    <e name="9/10 빌드" version="0.4.1662745659" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4.1662745659/HoloCure-0910.zip" chksum="596003c2c615e2ccda6117658d82ce9a"></e>
+    <e name="9/9 빌드" version="0.4.1662688581" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.4/HoloCure-0909.zip" chksum="082fab0a5e4d54f7d211363f0d7a0f6a"></e>
+    <e name="9/8 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure-0908.zip" chksum="e68f84331ffb28edd1f772471faa7497"></e>
+    <e name="7/9 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0709.zip" chksum="91be340ba0074b38c033c65d003ea5b7"></e>
+    <e name="7/2 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0702.zip" chksum="175d849cabe16d8bbb91017d79310cdb"></e>
+    <e name="7/1 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0701.zip" chksum="9e9b73a12a7330dd3b22ad83a43bc274"></e>
+    <e name="6/30 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0630.zip" chksum="39d22913f7a139c3238252b89edc28f0"></e>
+    <e name="6/29 빌드" version="0.3.1656491913" link="https://github.com/khronii/HoloCure-Translation-Launcher/releases/download/0.3.X/HoloCure0629.zip" chksum="79cbc072091964112553d7f528211aa6"></e>
+</releases>
